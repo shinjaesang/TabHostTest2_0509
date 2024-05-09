@@ -96,4 +96,3 @@ class MainActivity : AppCompatActivity(), ActionBar.TabListener {
         }
 
     }
-}
