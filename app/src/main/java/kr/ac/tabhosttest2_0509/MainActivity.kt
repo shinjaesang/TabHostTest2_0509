@@ -56,11 +56,11 @@ class MainActivity : AppCompatActivity(), ActionBar.TabListener {
         ft!!.replace(android.R.id.content, fragment!!)
     }
     override fun onTabUnselected(tab: ActionBar.Tab?, ft: FragmentTransaction?) {
-        TODO("Not yet implemented")
+
     }
 
     override fun onTabReselected(tab: ActionBar.Tab?, ft: FragmentTransaction?) {
-        TODO("Not yet implemented")
+
     }
 
     class MyFragment : Fragment(){
